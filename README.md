@@ -13,6 +13,8 @@ N.Sugandan 212222060260
 	
 ## Circuit Diagram:
 
+<img width="1436" height="726" alt="image" src="https://github.com/user-attachments/assets/f74af541-8276-4b23-981a-2eb412977910" />
+
  
 
 
