@@ -104,6 +104,8 @@ void loop() {
 
 ## Output:
 
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/5ea56468-de44-4b5f-8257-072826bc7d5c" />
+
    
 
 ## Result:
